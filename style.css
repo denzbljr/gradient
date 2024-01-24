@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&family=Ubuntu:wght@300&display=swap');
+
+
+
+body{
+    background: rgb(0,255,46);
+    background: radial-gradient(circle, rgba(0,255,46,1) 0%,
+     rgba(0,233,254,1) 39%, rgba(0,233,254,1) 57%, rgba(45,45,255,1) 89%, rgba(45,45,255,1) 97%);
+     
+     
+     
+     height: 100vh;
+     font-family: 'Ubuntu', sans-serif;
+     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+   
+    
+    
+    
+    
+    
+    
+    } 
